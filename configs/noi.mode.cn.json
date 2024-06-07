@@ -166,6 +166,12 @@
       "url": "https://metaso.cn"
     },
     {
+      "id": "noi:deepseek",
+      "parent": "noi@aiCN",
+      "text": "deepseek",
+      "url": "https://chat.deepseek.com/"
+    },
+    {
       "id": "noi:github",
       "parent": "noi@dev",
       "text": "GitHub",
